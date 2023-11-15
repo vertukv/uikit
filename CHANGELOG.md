@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.21.0](https://github.com/gravity-ui/uikit/compare/v5.20.0...v5.21.0) (2023-11-15)
+
+
+### Features
+
+* lazy loading for userAvatar ([#1124](https://github.com/gravity-ui/uikit/issues/1124)) ([e76fd7c](https://github.com/gravity-ui/uikit/commit/e76fd7ce9ab4a6adff05f5e816f385e1b5afc316))
+
 ## [5.20.0](https://github.com/gravity-ui/uikit/compare/v5.19.1...v5.20.0) (2023-11-14)
 
 
